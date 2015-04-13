@@ -1,28 +1,9 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the code challenge for BugCrowd from https://gist.github.com/codesoda/124a85330c10da6785d3.
 
-Things you may want to cover:
+I primarily used standard rails skeleton tools for the structure of the code.
 
-* Ruby version
+I was unsure how to approach the Entity Type so it isn't actually integrated into the rest of the code at all.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Normally, there would have been some back and forth about requirements edge cases and the overall purpose behind the code as well.
